@@ -1,0 +1,23 @@
+.envato-kit-115-imagebox .elementor-image-box-img img{
+	border-radius: 100%;
+}
+
+
+.envato-kit-115-form .elementor-field-textual{
+	 padding: 5px 34px;
+}
+
+.envato-kit-115-form .elementor-field-type-submit{
+	margin-top: 20px;
+}
+
+.envato-kit-115-form .elementor-button{
+	cursor: pointer;
+}
+
+.emvato-kit-115-popuptaco{
+	transform: rotate(30deg);
+}
+.emvato-kit-115-popuptaco2{
+	transform: rotate(-30deg);
+}
